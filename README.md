@@ -41,36 +41,32 @@ Hardware engineer with **2 years of hands-on PCB design experience**, focused on
 - **Summary:** Complete schematic and PCB design of a board built around the XC7Z010-2CLG400I
 - **Layers:** [e.g. 6-layer stackup]
 - **Key features:** [DDR memory, interfaces, connectors, power rails]
-- **My role:** Schematic design, layout, [bring-up]
+- **My role:** Schematic design, layout
 
 ### 3. FPGA + Processor Multi-Sheet Board
 ![Board render](fpga.png)
 - **Summary:** Hierarchical multi-sheet schematic and multi-layer PCB for an FPGA and processor system
-- **Layers:** [e.g. 8-layer stackup]
-- **Key features:** [FPGA family, memory, interfaces, connectors]
-- **My role:** Schematic design, layout, [bring-up]
+- **Layers:** 12 layer board
+- **Key features:**Altera FPGA
+- **My role:** Schematic design, layout
 
 ### 4. Power Card
 ![Power card](power.png)
 - **Summary:** Power card with buck and boost converters, pushbutton, ADC, WiFi and Ethernet
-- **Specs:** [Input voltage → output rails and currents]
-- **Results:** [Ripple or load test measurements]
+- **Specs:** Input volatge of 3.7V,Boost added to generate 5V and 12V
 
 ### 5. OLED Driver Board
 ![OLED card](oledback.png)
 - **Summary:** Schematic and PCB design of a driver board for an OLED panel
-- **Interface:** [I2C / SPI / parallel]
-- **Results:** [Photo of the working display]
+- **Interface:** I2C
 
 ### 6. ESP32 Motor Driver Board
 ![ESP32 motor driver schematic](ep1.png)(ep2.png)
 - **Summary:** ESP32-based control board with on-board power generation and a motor driver stage
-- **Power:** +3V3 and +5V generation from a [input voltage] supply using [buck / LDO regulators], with filtering and protection
-- **Processor:** ESP32 module with breakout headers, [boot/reset switch], and [peripherals broken out]
-- **Motor driver:** [Driver IC name] with flyback diodes, current sensing and two motor output headers
-- **Interface block:** [MAX... IC name] with connector for [RS-485 / sensor / other]
-- **Tools:** Altium Designer
-- **My role:** Schematic design, [layout, bring-up]
+- **Power:** +3V3 and +5V generation from a 12V supply using buck converters, with filtering and protection
+- **Processor:** ESP32 module with breakout headers,
+
+- **My role:** Schematic design, PCB Design
 
 
 ## Skills
