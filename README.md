@@ -20,10 +20,10 @@ Hardware engineer with **2 years of hands-on PCB design experience**, focused on
 
 | Area | Tools |
 |------|-------|
-| PCB CAD | Altium Designer, [Eagle / KiCad / others] |
-| Programmable logic | Vivado, [Verilog / VHDL / HLS] |
-| Embedded | Embedded Linux basics, [PetaLinux / others] |
-| Lab equipment | Oscilloscope, multimeter, [others] |
+| PCB CAD | Altium Designer |
+| Programmable logic | Vivado, Verilog , HLS |
+| Embedded | Embedded Linux basics, PetaLinux|
+| Lab equipment | Oscilloscope, multimeter, Function generator|
 
 ---
 
@@ -39,15 +39,15 @@ Hardware engineer with **2 years of hands-on PCB design experience**, focused on
 ### 2. Zynq-7000 Board (XC7Z010-2CLG400I)
 ![Zynq board](zynq-board.png)
 - **Summary:** Complete schematic and PCB design of a board built around the XC7Z010-2CLG400I
-- **Layers:** [e.g. 6-layer stackup]
-- **Key features:** [DDR memory, interfaces, connectors, power rails]
+- **Layers:** e.g. 6-layer stackup
+- **Key features:** DDR memory, interfaces, connectors, power rails
 - **My role:** Schematic design, layout
 
 ### 3. FPGA + Processor Multi-Sheet Board
 ![Board render](fpga.png)
 - **Summary:** Hierarchical multi-sheet schematic and multi-layer PCB for an FPGA and processor system
 - **Layers:** 12 layer board
-- **Key features:**Altera FPGA
+- **FPGA:** Altera FPGA
 - **My role:** Schematic design, layout
 
 ### 4. Power Card
@@ -74,10 +74,10 @@ Hardware engineer with **2 years of hands-on PCB design experience**, focused on
 - Multi-layer stackup design and layer assignment
 - Component selection and custom footprint creation
 - Power supply design: buck, boost, decoupling, power planes
-- FPGA firmware development ([Verilog / VHDL], Vivado)
+- FPGA firmware development (Verilog , Vivado)
 - DSP on FPGA (MUSIC / DOA)
 - Embedded Linux basics
-- Signal routing: [differential pairs / length matching / controlled impedance, only what you have done]
+- Signal routing: differential pairs / length matching
 - Design for manufacturing: Gerber, drill and BOM generation
 - Soldering, rework and board bring-up (SMT and through-hole)
 - Debugging with scope and multimeter
