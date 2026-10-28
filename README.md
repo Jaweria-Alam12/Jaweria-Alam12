@@ -34,10 +34,10 @@ Hardware engineer with **2 years of hands-on PCB design experience**, focused on
 - **Summary:** FPGA implementation of the MUSIC (Multiple Signal Classification) algorithm for direction-of-arrival estimation
 - **Platform:** Zynq UltraScale+
 - **Implementation:** [Covariance matrix, eigen-decomposition, spectrum search: what you built in hardware vs. software]
-- **Results:** [Resource usage, latency, accuracy vs. a MATLAB/Python reference]
+
 
 ### 2. Zynq-7000 Board (XC7Z010-2CLG400I)
-![Zynq board](zynq.png)
+![Zynq board](zynq-board.png)
 - **Summary:** Complete schematic and PCB design of a board built around the XC7Z010-2CLG400I
 - **Layers:** [e.g. 6-layer stackup]
 - **Key features:** [DDR memory, interfaces, connectors, power rails]
@@ -50,7 +50,7 @@ Hardware engineer with **2 years of hands-on PCB design experience**, focused on
 - **Key features:** [FPGA family, memory, interfaces, connectors]
 - **My role:** Schematic design, layout, [bring-up]
 
-### 4. Power Card for FPGA / Processor
+### 4. Power Card
 ![Power card](power.png)
 - **Summary:** Power card with buck and boost converters, pushbutton, ADC, WiFi and Ethernet
 - **Specs:** [Input voltage → output rails and currents]
