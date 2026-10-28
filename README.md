@@ -26,7 +26,7 @@ Hardware engineer with **2 years of hands-on PCB design experience**, focused on
 ## Featured Projects
 
 ### 1. FPGA + Processor Multi-Layer Board
-![Board render](images/fpga-board-render.png)
+![Board render](fpga.png)
 - **Summary:** [One line: what the board does]
 - **Layers:** [e.g. 8-layer stackup]
 - **Key features:** [FPGA family, memory, interfaces, connectors]
@@ -34,14 +34,14 @@ Hardware engineer with **2 years of hands-on PCB design experience**, focused on
 - [Repo link]
 
 ### 2. Power Card for FPGA / Processor
-![Power card](images/power-card.png)
+![Power card](power.png)
 - **Summary:** [Input voltage → output rails and currents]
 - **Key features:** [Regulator types, sequencing, protection]
 - **Results:** [Ripple or load test measurements]
 - [Repo link]
 
 ### 3. OLED Display Card
-![OLED card](images/oled-card.png)
+![OLED card](oledback.png)
 - **Summary:** Display interface board for an OLED panel
 - **Interface:** [I2C / SPI / parallel]
 - **Results:** [Photo of the working display]
@@ -61,13 +61,12 @@ Hardware engineer with **2 years of hands-on PCB design experience**, focused on
 
 ## Experience
 
-**PCB Design Engineer** | [Company / University] | [Year to Present]
-- [One line about a project you led or contributed to]
-- [One line with a measurable result, e.g. "Delivered 3 boards that worked at first power-up"]
+**PCB Design Engineer** | LEOS / NUST] | [2024-Present]
+
 
 ---
 
 ## Contact
 
-- Email: [your email]
-- LinkedIn: [your link]
+- Email: [jaweriaalam490@gmail.com]
+
