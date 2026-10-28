@@ -62,7 +62,16 @@ Hardware engineer with **2 years of hands-on PCB design experience**, focused on
 - **Interface:** [I2C / SPI / parallel]
 - **Results:** [Photo of the working display]
 
----
+### 6. ESP32 Motor Driver Board
+![ESP32 motor driver schematic](ep1.png)(ep2.png)
+- **Summary:** ESP32-based control board with on-board power generation and a motor driver stage
+- **Power:** +3V3 and +5V generation from a [input voltage] supply using [buck / LDO regulators], with filtering and protection
+- **Processor:** ESP32 module with breakout headers, [boot/reset switch], and [peripherals broken out]
+- **Motor driver:** [Driver IC name] with flyback diodes, current sensing and two motor output headers
+- **Interface block:** [MAX... IC name] with connector for [RS-485 / sensor / other]
+- **Tools:** Altium Designer
+- **My role:** Schematic design, [layout, bring-up]
+
 
 ## Skills
 
